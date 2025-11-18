@@ -4,6 +4,7 @@ import Intro from "./Components/Intro";
 import Highlights from "./Components/Highlights";
 import Highlights2 from "./Components/Highlights2";
 import Colors from "./Components/Colors";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Highlights />
       <Highlights2 />
       <Colors />
+      <Footer />
     </div>
   );
 }
